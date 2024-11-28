@@ -1,0 +1,6 @@
+word1 start time 0.52s to end time 0.84s
+word2 start time 0.88s to end time 1.16s
+word3 start time 1.20s to end time 1.40s
+word4 start time 1.44s to end time 1.72s
+word5 start time 1.76s to end time 2.08s
+word6 start time 2.12s to end time 2.56s
